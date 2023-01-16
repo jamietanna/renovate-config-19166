@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "github>jamietanna/renovate-config-19166:base"
+  ],
+  "dependencyDashboardApproval": true,
+  "enabledManagers": [
+    "regex"
+  ]
+}

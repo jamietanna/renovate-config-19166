@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base",
+    "github>jamietanna/renovate-config-19166:base"
+  ],
+  "ignorePresets": [
+    "github>jamietanna/renovate-config-19166:not-onboarded"
+  ]
+}
