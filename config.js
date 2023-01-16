@@ -1,4 +1,3 @@
-{
 module.exports = {
   requireConfig: "optional",
   onboarding: false,
